@@ -84,8 +84,6 @@ Withdrawal (W) period ends | June 26
 College closed | July 3&ndash;4
 Final Exam | July 8
 
-*Dates confirmed against the official Hunter College Summer 2026 academic calendar (Summer Session 1, 6 Weeks): College closed June 19 (Juneteenth) and July 3&ndash;4 (Independence Day); Withdrawal (W) period ends June 26; last day of classes July 8. The Midterm Exam date is instructor-set.*
-
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
 The instructor will not approve C/NC requests for this course. However, such requests may be approved by the college on a per-semester basis; students are encouraged to check the college policies. Students are also encouraged to discuss these options with their academic advisors. Special enrollment permissions, e.g., prerequisite waivers, will not be granted without substantial supporting evidence, e.g., sufficient professional experience.
