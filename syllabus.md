@@ -154,7 +154,7 @@ CUNY Hunter College regards acts of academic dishonesty (e.g., plagiarism, cheat
 
 ## Bulletin Board
 
-You should check the [Brightspace](https://brightspace.cuny.edu) site regularly since all class material will be posted there. Please make sure you have configured Brightspace to use your *CUNY email address*. You are responsible for any email the instructors might send there.
+You should check the [Brightspace](http://brightspace.cuny.edu) site regularly since all class material will be posted there. Please make sure you have configured Brightspace to use your *CUNY email address*. You are responsible for any email the instructors might send there.
 
 ## Laptop Loans, Computer Science Facilities, &amp; Labs
 
