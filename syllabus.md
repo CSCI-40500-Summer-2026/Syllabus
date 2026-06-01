@@ -78,15 +78,18 @@ Participation | 5%
 
 Event | Date
 ----- | ----
-No classes scheduled | June 6 *(verify)*
-Classes follow a Thursday schedule | June 17 *(verify)*
+First day of classes | May 28
+Last day to add or change a course section | May 30
+Withdrawal Drop (WD) period ends | June 8
+Withdrawal (W) period begins | June 9
 College closed (Juneteenth) | June 19
-Midterm Exam | June 20 *(verify)*
-Withdrawal (W) period ends | June 26 *(verify)*
-College closed (Independence Day observed) | July 3
+Midterm Exam | June 20
+Withdrawal (W) period ends | June 26
+College closed (Independence Day) | July 3&ndash;4
 Final Exam | July 8
+Last day of classes | July 8
 
-*Dates marked* (verify) *are mirrored from SU25 and must be confirmed against the official Hunter College Summer 2026 academic calendar before posting. Confirmed college closures for SU26: June 19 (Juneteenth) and July 3&ndash;4 (Independence Day; July 4 falls on a Saturday).*
+*Registrar dates above are taken from the official Hunter College Summer 2026 academic calendar, Summer Session 1 (6 Weeks). The Midterm Exam date is instructor-set (carried over from SU25); adjust as desired.*
 
 ## Credit/No Credit Policy &amp; Special Enrollment Permission
 
