@@ -216,7 +216,7 @@ In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirm
 Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut, as well as syllabi from Atanas Rountev.
 
 [office hour]: https://meet.google.com/chb-fvsp-edk
-[textbook]: https://hunter.textbookx.com/institutional/?action=browse#books/5036278
+[textbook]: https://hunter.textbookx.com/institutional/index.php?action=browse#books/5457551/
 [GitHub]: https://github.com/CSCI-40500-Summer-2026/Syllabus/commits/master
 [loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
 [Raffi Khatchadourian]: http://cs.hunter.cuny.edu/~khatchad
