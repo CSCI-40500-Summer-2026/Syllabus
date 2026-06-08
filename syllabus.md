@@ -10,7 +10,7 @@ Field | Value
 **Office:** | 1090J Hunter North Building
 **Email:** | [khatchad@hunter.cuny.edu](mailto:khatchad@hunter.cuny.edu)
 **Phone:** | (212) 650-3988
-**Virtual office hours:** | [MW 1:30-2:30 pm][office hour]
+**Office hours:** | By appointment
 **Semester:** | Summer 2026
 **Session:** | 6W1 (six-week, session 1: May 28 &ndash; July 8, 2026)
 **Section:** | CSCI 40500-01 (3091)
@@ -215,7 +215,6 @@ In compliance with the CUNY Policy on Sexual Misconduct, Hunter College reaffirm
 
 Portions of this syllabus are based on the syllabus used for the [CEN 5035 Software Engineering Fall 2016 course](http://www.cise.ufl.edu/class/cen5035/fa16.html) of the Department of Computer Science &amp; Engineering, the University of Florida by Steve Thebaut, as well as syllabi from Atanas Rountev.
 
-[office hour]: https://meet.google.com/chb-fvsp-edk
 [textbook]: https://hunter.textbookx.com/institutional/index.php?action=browse#books/5457551/
 [GitHub]: https://github.com/CSCI-40500-Summer-2026/Syllabus/commits/master
 [loan]: https://cunyhunter.co1.qualtrics.com/jfe/form/SV_9viuDlTexA9rV2d
